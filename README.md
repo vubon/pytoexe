@@ -1,4 +1,4 @@
-# pytoexe
+# Python to exe file 
 Python to windows exe file creation by pyinstaller. 
 
 #About Pyinstaller
